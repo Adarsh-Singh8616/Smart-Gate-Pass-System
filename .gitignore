@@ -1,0 +1,26 @@
+# Eclipse
+.metadata/
+.settings/
+
+# Java compiled files
+*.class
+bin/
+
+# Build files
+target/
+
+# Tomcat
+Servers/
+*.log
+
+# Windows
+Thumbs.db
+.DS_Store
+
+# Secrets
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.tempbuild/
